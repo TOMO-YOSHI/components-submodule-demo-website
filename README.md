@@ -8,7 +8,7 @@ Submodule repo: https://github.com/TOMO-YOSHI/components
 ## Commands
 - Make clone
 
-  `git colone https://github.com/TOMO-YOSHI/components-submodule-demo-website.git`
+  `git clone https://github.com/TOMO-YOSHI/components-submodule-demo-website.git`
 
 - Go into the project
 
