@@ -24,7 +24,7 @@ Submodule repo: https://github.com/TOMO-YOSHI/components
 
 - Get the information about the submodule
 
-  `git git submodule init`
+  `git submodule init`
 
 - Update the code of your submodules
 
