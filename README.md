@@ -53,6 +53,11 @@ Submodule repo: https://github.com/TOMO-YOSHI/components
 Submodules are not tracked by the git commands at the root dir. Therefore, devs have to run `git add`, `git commit`, and `git push` separately.
 
 ## How to pull and update the submodule after the remote repo has been updated
-- `git pull --recurse-submodules`
 
--`git submodule update --remote` 
+- `cd ./src/components/`
+
+- `git pull`
+
+- ~~`git pull --recurse-submodules`~~
+
+- ~~`git submodule update --remote` ~~
